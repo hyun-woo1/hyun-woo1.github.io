@@ -20,6 +20,6 @@ intro:
 Body
 
 hyunwoo
-artifical intelligence
+artifical intelligence!!
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
